@@ -1,0 +1,15 @@
+langchain
+streamlit
+python-dotenv
+pillow
+opencv-python
+transformers
+librosa
+google-generativeai
+langchain-google-genai
+# uncomment to use huggingface llms
+# huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
